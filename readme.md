@@ -1,5 +1,3 @@
-# README
-
 ## Overview
 
 This document provides an overview and usage details of three Python scripts: `exporter.py`, `extract_email_body.py`, and `token_counter.py`. The purpose of these scripts is to:
